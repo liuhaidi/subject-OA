@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Delete"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.782">
+  <properties />
+  
+  
+            <testcase name="addressdel3" time="0.203" classname="com.api.test.DeleteTest" />
+                <testcase name="addressdel1" time="0.204" classname="com.api.test.DeleteTest" />
+                <testcase name="addressdel4" time="0.203" classname="com.api.test.DeleteTest" />
+                <testcase name="addressdel2" time="0.172" classname="com.api.test.DeleteTest" />
+      
+</testsuite>

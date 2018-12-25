@@ -1,0 +1,47 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="s2">
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"></listener>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"></listener>
+        
+    </listeners>
+	
+	<test name="Sku">
+		<classes>
+		    <class name="com.api.test.SkulistTest"></class>	    
+        </classes>
+	</test>
+	<test name="Login">
+		<classes>
+		    <class name="com.api.test.LoginTest"></class>
+        </classes>
+	</test>
+	<test name="Address">
+		<classes>
+		    <class name="com.api.test.AddressTest"></class>  
+        </classes>
+	</test>
+	<test name="Getfee">
+		<classes>
+		    <class name="com.api.test.GetfeeTest"></class> 
+        </classes>
+	</test>
+	<test name="Submit">
+		<classes>
+		    <class name="com.api.test.SubmitTest"></class> 
+        </classes>
+	</test>
+	<test name="New">
+		<classes>
+		    <class name="com.api.test.NewaddressTest"></class>  
+        </classes>
+	</test>
+	<test name="Delete">
+		<classes>
+		    <class name="com.api.test.DeleteTest"></class>		    
+        </classes>
+	</test>
+	
+
+</suite>

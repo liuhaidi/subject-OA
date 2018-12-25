@@ -1,0 +1,116 @@
+[FATAL] 2018-12-14 08:23:44,519 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请求失败; expected Value is :success
+[FATAL] 2018-12-14 08:47:45,840 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :201
+[FATAL] 2018-12-14 09:08:34,569 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :用户名或者密码错误; expected Value is :请求失败
+[FATAL] 2018-12-14 09:10:22,140 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :用户名或者密码错误; expected Value is :用户名为空
+[FATAL] 2018-12-14 09:10:43,383 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :用户名或者密码错误; expected Value is :用户名为空
+[FATAL] 2018-12-14 10:39:51,249 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :用户名或者密码错误; expected Value is :用户名为空
+[FATAL] 2018-12-17 15:11:57,686 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :用户名或者密码错误; expected Value is :用户名为空
+[ERROR] 2018-12-17 15:11:57,694 com.api.utils.Log - com.api.test.PostJsonDemo@224edc67LoginByFail2运行失败
+[FATAL] 2018-12-17 15:12:18,305 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :用户名或者密码错误; expected Value is :用户名为空
+[ERROR] 2018-12-17 15:12:18,309 com.api.utils.Log - com.api.test.PostJsonDemo@224edc67LoginByFail2运行失败
+[FATAL] 2018-12-17 18:12:19,089 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :用户名或者密码错误; expected Value is :用户名为空
+[ERROR] 2018-12-17 18:12:19,093 com.api.utils.Log - com.api.test.PostJsonDemo@23e028a9LoginByFail2运行失败
+[FATAL] 2018-12-23 10:48:00,792 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-23 10:55:11,488 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-23 10:56:31,208 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-23 10:56:31,361 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-23 10:57:32,316 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :201
+[FATAL] 2018-12-23 10:57:32,506 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-23 10:58:35,988 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :201
+[FATAL] 2018-12-23 10:58:36,155 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-23 17:28:21,862 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-23 17:28:22,200 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-23 17:28:22,340 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :401
+[FATAL] 2018-12-23 17:36:10,432 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :201
+[FATAL] 2018-12-23 17:36:10,597 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :201
+[FATAL] 2018-12-23 17:36:10,769 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :400
+[FATAL] 2018-12-23 17:36:10,910 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :200
+[FATAL] 2018-12-23 17:37:29,711 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :201
+[FATAL] 2018-12-23 17:37:29,882 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :201
+[FATAL] 2018-12-23 17:37:30,398 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :400
+[FATAL] 2018-12-23 17:37:30,569 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :失败
+[FATAL] 2018-12-23 17:38:59,310 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :201
+[FATAL] 2018-12-23 17:38:59,463 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :201
+[FATAL] 2018-12-23 17:40:07,127 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :201
+[FATAL] 2018-12-23 17:40:07,471 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :201
+[FATAL] 2018-12-23 17:40:08,384 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-23 17:40:58,304 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请求失败; expected Value is :jh
+[FATAL] 2018-12-23 17:41:00,230 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-23 17:41:39,465 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-23 17:56:04,543 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :200
+[FATAL] 2018-12-23 17:56:25,296 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :ak
+[FATAL] 2018-12-24 14:04:22,121 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :dad
+[FATAL] 2018-12-24 14:04:42,941 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :200
+[FATAL] 2018-12-24 14:06:30,861 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :add
+[FATAL] 2018-12-24 14:14:43,184 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :403; expected Value is :200
+[FATAL] 2018-12-24 14:19:06,104 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :必须为null
+[FATAL] 2018-12-24 14:23:15,744 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 14:23:19,737 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-24 14:23:19,912 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-24 14:24:11,651 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-24 14:24:12,788 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-24 14:24:42,865 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-24 14:24:43,952 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-24 14:24:44,150 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :最多只能添加6个地址; expected Value is :200
+[FATAL] 2018-12-24 14:26:48,869 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :200
+[FATAL] 2018-12-24 14:30:28,371 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-24 14:32:05,304 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :必须为null
+[FATAL] 2018-12-24 14:32:53,502 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :400
+[FATAL] 2018-12-24 14:33:34,583 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 14:34:57,977 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请求失败; expected Value is :400
+[FATAL] 2018-12-24 14:37:07,518 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 14:37:44,237 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 14:38:12,284 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :401
+[FATAL] 2018-12-24 14:38:23,017 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :401
+[FATAL] 2018-12-24 14:38:52,318 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 14:39:33,194 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 14:40:30,304 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-24 14:40:30,489 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :201
+[FATAL] 2018-12-24 14:40:30,582 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 14:40:46,129 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-24 14:40:46,343 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :201
+[FATAL] 2018-12-24 14:40:46,449 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 14:48:07,848 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :success
+[FATAL] 2018-12-24 14:48:21,903 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :success
+[FATAL] 2018-12-24 14:49:14,286 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :success
+[FATAL] 2018-12-24 14:55:54,498 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :success
+[FATAL] 2018-12-24 14:55:54,686 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :请求失败
+[FATAL] 2018-12-24 14:55:54,873 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :请求失败
+[FATAL] 2018-12-24 14:55:55,060 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :请求失败
+[FATAL] 2018-12-24 14:55:55,263 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :请求失败
+[FATAL] 2018-12-24 14:55:55,482 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :请求失败
+[FATAL] 2018-12-24 14:55:55,680 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :请求失败
+[FATAL] 2018-12-24 14:55:55,895 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :请求失败
+[FATAL] 2018-12-24 14:56:42,546 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :may not be null; expected Value is :success
+[FATAL] 2018-12-24 15:18:27,378 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :may not be null
+[FATAL] 2018-12-24 15:18:27,582 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请求失败; expected Value is :may not be null
+[FATAL] 2018-12-24 15:18:27,775 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :限购100台; expected Value is :may not be null
+[FATAL] 2018-12-24 15:18:27,947 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请求失败; expected Value is :may not be null
+[FATAL] 2018-12-24 15:18:28,197 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :may not be null
+[FATAL] 2018-12-24 15:18:28,434 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :may not be null
+[FATAL] 2018-12-24 15:18:28,637 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请求失败; expected Value is :may not be null
+[FATAL] 2018-12-24 15:19:47,304 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :请求失败
+[FATAL] 2018-12-24 15:19:47,710 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :限购100台; expected Value is :请求失败
+[FATAL] 2018-12-24 15:19:48,135 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :请求失败
+[FATAL] 2018-12-24 15:19:48,339 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :请求失败
+[FATAL] 2018-12-24 15:22:15,700 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :用户名或者密码错误; expected Value is :success
+[FATAL] 2018-12-24 15:23:00,829 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :success
+[FATAL] 2018-12-24 15:27:21,002 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :success
+[FATAL] 2018-12-24 15:35:26,096 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :请重新登录; expected Value is :success
+[FATAL] 2018-12-24 16:05:04,918 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[ERROR] 2018-12-24 16:05:04,934 com.api.utils.Log - com.api.test.SkulistTest@5c5a1b69skulist1运行失败
+[FATAL] 2018-12-24 16:05:05,356 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[ERROR] 2018-12-24 16:05:05,356 com.api.utils.Log - com.api.test.GetfeeTest@2b552920getfee1运行失败
+[FATAL] 2018-12-24 16:05:22,325 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-24 16:05:22,716 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 16:08:25,430 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :400; expected Value is :200
+[FATAL] 2018-12-24 16:08:25,649 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :201
+[FATAL] 2018-12-24 16:08:27,042 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 16:08:27,231 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 16:08:28,559 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 16:08:29,060 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :400
+[FATAL] 2018-12-24 16:08:29,154 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :200; expected Value is :401
+[FATAL] 2018-12-24 16:08:29,831 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :请求失败
+[FATAL] 2018-12-24 16:08:30,637 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :请求失败
+[FATAL] 2018-12-24 16:08:31,496 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :success; expected Value is :请求失败
+[FATAL] 2018-12-24 16:08:31,905 com.api.utils.Checker - expectedValue doesn't match actualValue,actual Value is :最多只能添加6个地址; expected Value is :success

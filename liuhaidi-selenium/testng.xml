@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="s2" data-provider-thread-count="2">
+	<listeners> 
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+        <listener class-name="com.webtest.core.WebTestListener"/>
+	</listeners>
+
+	<test name="test1">
+		<classes>
+			<class name="com.webtest.demo.Login_Test" />
+					
+		</classes>
+	</test>
+	
+
+</suite>
